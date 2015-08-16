@@ -1,6 +1,6 @@
 # openTCS - open Transportation Control System
 
-This is a fork of openTCS.
+This is a mirror of openTCS.
 
 The original source, binaries and maintainers can be found here:
 
